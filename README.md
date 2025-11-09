@@ -1,7 +1,7 @@
 #Portfolio
-# Ichsan Saputra - Data Scientist / Data Analyst
+# Ichsan Saputra - Data Analyst / Data Scientist
 
-## 📘 About Me
+# 📘 About Me
 Hi, I'm Ichsan! I have a background in data science analytics, particularly in Performance Data. I've built a strong foundation in data science and a passion for using data to uncover meaningful insights. I'm excited to bring my technical and analytical skills to the data science field as a professional data specialist.
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data processing techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
