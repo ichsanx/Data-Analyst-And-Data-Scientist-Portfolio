@@ -143,6 +143,12 @@ It reflects my capability to design, analyze, and develop full-stack application
 
 ## 🎓 Education
 
+**Bachelor Degree** - *S1 (Information Technology – STMIK Mercusuar)*
+After graduating from vocational high school in 2010, I pursued my passion for technology by enrolling at STMIK Mercusuar, majoring in Information Technology (Teknik Informatika).
+During my studies, I built a strong foundation in computer science, software development, database management, and web programming.
+Throughout the program, I also developed several projects that combined both technical and analytical skills, which later strengthened my professional direction toward data analytics and software engineering.
+📅 *Graduated: August 26, 2014*
+
 **WebHozz Training Center** – *Web Development Course (PHP & MySQL)*  
 Focused on PHP website creation, layout design, CRUD, and project implementation.  
 📅 *Graduated: November 26, 2016*
@@ -168,6 +174,28 @@ Studied Python, SQL, Excel, and C programming for data and software solutions.
 - **Database:** MySQL, BigQuery  
 - **Web Development:** HTML, CSS, Bootstrap, PHP  
 - **Tools:** GitHub, VS Code, Jupyter Notebook
+- **Server Admin:** Proxmox Virtual Environment & TrueNass
+
+---
+
+## 📜 Achievement
+- Certification:
+  - CERTIFIED DIGISTAR CONNECT GOES TO ITS X ACADS : BOOST YOUR PROJECT MANAGEMENT SKILL 
+  - CERTIFIED BEGINNER & INTERMEDIATE LEVEL ON DATA ANALYST COURSE
+  - CERTIFICATE WEBINAR PENGANTAR ANALISIS DATA
+  - CERTIFICATE FUNDAMENTAL COURSE INTRO TO SOFTWARE ENGINEERING
+  - CERTIFICATE FUNDAMENTAL ALGORITMA
+  - CERTIFICATE FUNDAMENTAL PYTHON
+  - CERTIFICATE EXCEL INTERMEDIATE
+  - CERTIFICATE FUNDAMENTAL EXCEL
+  - CERTIFICATE FUNDAMENTAL DATABASE MYSQL
+  - CERTIFICATE FUNDAMENTAL DIGITAL MARKETING
+  - CERTIFICATE WEB PROGRAMMING TRAINING
+  - CERTIFICATE OF ACHIEVEMENT AWARD HIGHER LEARNING
+  - CERTIFICATE PROGRAM VISUAL BASIC & MYSQL
+  - CERTIFICATE TEKNISI KOMPUTER
+  - CERTIFICATE ENTREPRENEUR TANDOMAS MANDIRI
+  - CERTIFICATE PRAKTERK KERJA LAPANGAN DEPKUMHAM
 
 ---
 
