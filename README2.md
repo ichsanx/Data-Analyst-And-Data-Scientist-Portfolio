@@ -25,6 +25,8 @@ This is a repository for showcasing my skills, sharing projects, and tracking my
 - Cascading Style Sheets (CSS)
 - Oracle
 - Editor (Canva, PhotoShop, Corel Draw)
+- Proxmox
+- TrueNass
 
 ## 📊 Projects
 ### 1. [Judul Proyek 1]
@@ -38,6 +40,7 @@ Deskripsi singkat dan tujuan proyek.
 ## 📜 Education
 - S1 [Teknik Informatika], [STMIK MERCUSUAR]
 - Sertifikasi:
+  - CERTIFIED DIGISTAR CONNECT GOES TO ITS X ACADS : BOOST YOUR PROJECT MANAGEMENT SKILL 
   - CERTIFIED BEGINNER & INTERMEDIATE LEVEL ON DATA ANALYST COURSE
   - CERTIFICATE WEBINAR PENGANTAR ANALISIS DATA
   - CERTIFICATE FUNDAMENTAL COURSE INTRO TO SOFTWARE ENGINEERING
