@@ -1,6 +1,6 @@
 # 🚀 Data Analytics / Data Scientist & Software Engineering Portfolio
 
-This portfolio showcases my journey as a **Data Analyst** and **Software Engineering enthusiast**, highlighting practical projects and learning experiences from **WebHozz**, **Growia**, **RevoU**, and **Coding Studio**.  
+This portfolio showcases my journey as a **Data Analyst/ Scientist** and **Software Engineering enthusiast**, highlighting practical projects and learning experiences from **WebHozz**, **Growia**, **RevoU**, and **Coding Studio**.  
 It reflects my capability to design, analyze, and develop full-stack applications, data-driven dashboards, and automation tools.
 
 ---
