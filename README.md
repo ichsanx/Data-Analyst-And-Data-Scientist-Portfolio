@@ -1,201 +1,221 @@
-# 🚀 Data Analytics / Data Scientist & Software Engineering Portfolio
+# 📊 Data Analyst Portfolio – Ichsan Saputra
 
-This portfolio showcases my journey as a **Data Analyst/ Scientist** and **Software Engineering enthusiast**, highlighting practical projects and learning experiences from **WebHozz**, **Growia**, **RevoU**, and **Coding Studio**.  
-It reflects my capability to design, analyze, and develop full-stack applications, data-driven dashboards, and automation tools.
+I am a **Data Analyst** with an IT background and more than 10 years of experience in reporting, KPI performance, and business support in large telecommunications companies. I enjoy transforming raw data into clear insights and dashboards using **Python, SQL, Excel, and visualization tools**.
 
----
-
-## 💻 Web Development Projects
-
-### 1. WebHozz – PHP Website Development Training
-**Code:** [webhozz](https://github.com/ichsanx/webhozz)  
-**Goal:** Build a complete PHP-based website with MySQL integration.  
-**Description:** Learned web design and backend development at WebHozz, focusing on creating dynamic PHP-based websites. Topics covered included choosing color schemes, writing layouts, CRUD operations, and implementing server-side functionality.  
-**Skills:** PHP Development, CRUD, UI Design, MySQL Integration.  
-**Technology:** PHP, MySQL, HTML, CSS, JavaScript  
-**Result:** Completed training and received certification on **November 26, 2016**.
+This portfolio highlights selected **data analytics & business intelligence projects** and a few **supporting web development and programming projects** that strengthen my technical foundation.
 
 ---
 
-### 2. SIPUSTA – Library Management Website
-**Code:** [sipusta](https://github.com/ichsanx/sipusta)  
-**Goal:** Develop a web-based library system for managing books and users.  
-**Description:** Built a **library website (SIPUSTA)** featuring book catalog management, borrowing and returning systems, and user management modules. The system allows staff to manage data efficiently and generate printable transaction reports.  
-**Skills:** Full-Stack Web Development, Database Design, CRUD, Report Generation.  
-**Technology:** PHP, MySQL, HTML, CSS, JavaScript  
-**Result:** A functional and user-friendly library management system with complete borrowing and return modules.
+## 📈 Data Analytics & Business Intelligence Projects
 
----
-
-### 3. VIONET – Motorcycle Club Website and Dashboard System
-**Code:** [vionet](https://github.com/ichsanx/vionet)  
-**Goal:** Create a website and dashboard for the **Vision Owner Network (VIONET)** motorcycle club.  
-**Description:** Developed a full-stack web application that displays club information, events, and news. Integrated a secure admin dashboard for financial management (**cash flow tracking/KAS**).  
-**Skills:** Full-Stack Development, Authentication, CRUD, Dashboard UI.  
-**Technology:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap  
-**Result:** Enhanced transparency and engagement in the motorcycle community through a digital platform.
-
----
-
-### 4. Personal Portfolio Website – RevoU Fundamental Course
-**Code:** [17-feb-25-ichsanx](https://github.com/revou-fundamental-course/17-feb-25-ichsanx)  
-**Goal:** Develop a responsive personal portfolio website using front-end technologies.  
-**Description:** Designed and built a personal portfolio website using **HTML, CSS, and JavaScript**, showcasing projects, achievements, and contact information.  
-**Skills:** Front-End Web Development, UI/UX Design, Responsive Layout.  
-**Technology:** HTML, CSS, JavaScript  
-**Result:** A modern and responsive website deployed on GitHub Pages.
-
----
-
-## 📊 Data Analytics Projects
-
-### 5. Sales Data Visualization – PT. Tumbuh Bersama
-**Code:** [INSIGHT-DATA-SALES-PT.-TUMBUH-BERSAMA](https://github.com/ichsanx/INSIGHT-DATA-SALES-PT.-TUMBUH-BERSAMA)  
-**Goal:** Visualize and analyze monthly sales data using Excel dashboards.  
-**Description:** Created interactive dashboards tracking sales trends and performance by region and product category.  
-**Skills:** Data Cleaning, Dashboard Design, Business Insights.  
-**Technology:** Microsoft Excel
-
----
-
-### 6. Data Visualization with Google Data Studio
-**Code:** [Visualisasi-data-dengan-Google-Data-Studio](https://github.com/ichsanx/Visualisasi-data-dengan-Google-Data-Studio)  
-**Goal:** Build KPI-based business dashboards.  
-**Description:** Developed dynamic and interactive dashboards for performance monitoring.  
-**Skills:** Data Visualization, Reporting, Data Storytelling.  
-**Technology:** Google Data Studio
-
----
-
-### 7. Tech Store Sales Analysis
+### 1. E‑Commerce Customer & Sales Analysis – Growia Data Analyst Case Study  
 **Code:** [Task-Intermediate-Level-Certification-Ichsan_batch34](https://github.com/ichsanx/Task-Intermediate-Level-Certification-Ichsan_batch34)  
-**Goal:** Analyze store sales data and identify performance insights.  
-**Description:** Conducted EDA using Python to identify seasonal trends and top-performing products.  
-**Skills:** EDA, Data Analysis, Visualization.  
-**Technology:** Python, Pandas, Matplotlib
+**Goal:** Perform end‑to‑end analysis on an e‑commerce dataset to understand customers, orders, payments, delivery performance, and product trends.  
+
+**What I did:**
+- Cleaned and prepared order, customer, payment, and product data for analysis using Python.
+- Conducted exploratory data analysis (EDA) to identify sales trends, customer behavior, and product performance.
+- Designed visualizations to show revenue trends, popular categories, and repeat customers.
+- Summarized key findings and practical recommendations for business stakeholders.
+
+**Skills & Tools:** Python (pandas, Matplotlib), SQL, EDA, business insights, dashboard planning.
 
 ---
 
-### 8. SQL Data Exploration – Google BigQuery
+### 2. Sales Data Visualization – PT. Tumbuh Bersama  
+**Code:** [INSIGHT-DATA-SALES-PT.-TUMBUH-BERSAMA](https://github.com/ichsanx/INSIGHT-DATA-SALES-PT.-TUMBUH-BERSAMA)  
+**Goal:** Visualize and analyze monthly sales performance using Excel dashboards.  
+
+**What I did:**
+- Cleaned and structured raw sales data by period, region, and product category.
+- Built an interactive Excel dashboard with pivot tables and charts.
+- Highlighted trends in sales growth and key product contributors to revenue.
+
+**Skills & Tools:** Data cleaning, Excel (pivot table, formulas), dashboard design, business insights.
+
+---
+
+### 3. KPI Dashboard with Google Data Studio  
+**Code:** [Visualisasi-data-dengan-Google-Data-Studio](https://github.com/ichsanx/Visualisasi-data-dengan-Google-Data-Studio)  
+**Goal:** Build an online dashboard for monitoring business KPIs.  
+
+**What I did:**
+- Connected processed data to Google Data Studio.
+- Designed interactive reports with filters, scorecards, and time‑series charts.
+- Enabled stakeholders to explore KPIs directly without needing raw data files.
+
+**Skills & Tools:** Google Data Studio, data visualization, reporting, data storytelling.
+
+---
+
+### 4. SQL Data Exploration – Google BigQuery  
 **Code:** [SQL-with-Google-BigQuery](https://github.com/ichsanx/SQL-with-Google-BigQuery)  
-**Goal:** Execute SQL queries and analyze large datasets.  
-**Description:** Performed SQL operations such as joins, aggregations, and temporary tables to extract valuable insights.  
-**Skills:** SQL Querying, Data Analysis, Aggregation.  
-**Technology:** SQL, BigQuery
+**Goal:** Explore large datasets using SQL to answer business questions.  
+
+**What I did:**
+- Wrote SQL queries with joins, aggregations, and filtering to explore the dataset.
+- Used CTEs and grouping to analyze trends and segment performance.
+- Documented key queries and results as a reference for future analysis.
+
+**Skills & Tools:** SQL, BigQuery, joins, aggregation, query optimization mindset.
 
 ---
 
-### 9. Data Cleaning and Analysis in Python
+### 5. Data Cleaning & Exploratory Analysis in Python  
 **Code:** [File-Notebook-Python-Growia](https://github.com/ichsanx/File-Notebook-Python-Growia)  
-**Goal:** Clean, transform, and analyze raw data.  
-**Description:** Applied Python libraries for preprocessing and EDA to discover trends and relationships.  
-**Skills:** Data Preprocessing, EDA, Visualization.  
-**Technology:** Python, Pandas, Matplotlib
+**Goal:** Clean, transform, and analyze raw datasets using Python.  
+
+**What I did:**
+- Handled missing values, duplicates, and outliers.
+- Performed EDA to identify distributions, correlations, and patterns.
+- Created visualizations to communicate insights from the data.
+
+**Skills & Tools:** Python, pandas, Matplotlib, Seaborn, data preprocessing, EDA.
 
 ---
 
-### 10. Dashboard Visualization with Tableau
+### 6. Dashboard Visualization with Tableau  
 **Code:** [Visualization-with-Tableau](https://github.com/ichsanx/Visualization-with-Tableau)  
 **Goal:** Visualize KPIs and business insights using Tableau dashboards.  
-**Description:** Built executive dashboards for sales performance monitoring.  
-**Skills:** Data Visualization, Storytelling, KPI Analysis.  
-**Technology:** Tableau
+
+**What I did:**
+- Designed interactive dashboards with filters and calculated fields.
+- Combined multiple views to provide a high‑level overview of key metrics.
+- Focused on usability so non‑technical audiences can read the charts easily.
+
+**Skills & Tools:** Tableau, data visualization, KPI analysis, dashboard storytelling.
 
 ---
 
-## 🧩 Programming & Data Fundamentals
+## 💻 Supporting Projects – Web Development & Programming
 
-### 11. C Programming Fundamentals – Coding Studio
+These projects show my background in **web development** and **software fundamentals**. They are supporting skills that help me collaborate with engineering and IT teams.
+
+### 1. WebHozz – PHP Website Development Training  
+**Code:** [webhozz](https://github.com/ichsanx/webhozz)  
+**Goal:** Build a complete PHP‑based website with MySQL integration.  
+**Highlights:** Learned layout design, CRUD operations, and basic UI for dynamic web pages.  
+**Technology:** PHP, MySQL, HTML, CSS, JavaScript  
+
+---
+
+### 2. SIPUSTA – Library Management Website  
+**Code:** [sipusta](https://github.com/ichsanx/sipusta)  
+**Goal:** Develop a web‑based system to manage books, members, and borrowing.  
+**Highlights:** Implemented modules for catalog management, borrowing/returning, and printable transaction reports.  
+**Technology:** PHP, MySQL, HTML, CSS, JavaScript  
+
+---
+
+### 3. VIONET – Motorcycle Club Website & Dashboard  
+**Code:** [vionet](https://github.com/ichsanx/vionet)  
+**Goal:** Create a website and admin dashboard for the **Vision Owner Network (VIONET)** community.  
+**Highlights:** Built public pages for news & events and an authenticated dashboard for managing membership data and cashflow (KAS).  
+**Technology:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap  
+
+---
+
+### 4. Personal Portfolio Website – RevoU Fundamental Course  
+**Code:** [17-feb-25-ichsanx](https://github.com/revou-fundamental-course/17-feb-25-ichsanx)  
+**Goal:** Build a responsive personal portfolio website.  
+**Highlights:** Implemented multi‑section layout (about, projects, contact) with responsive design.  
+**Technology:** HTML, CSS, JavaScript  
+
+---
+
+### 5. C Programming Fundamentals – Coding Studio  
 **Code:** [Algoritma-Pemograman-C](https://github.com/ichsanx/Algoritma-Pemograman-C)  
-**Goal:** Practice algorithm design and procedural programming.  
-**Description:** Built a simple interactive program demonstrating control flow and algorithm logic.  
-**Skills:** C Programming, Algorithm Design, Problem Solving.  
-**Technology:** C Language
+**Goal:** Practice algorithm design and basic procedural programming in C.  
+**Highlights:** Implemented interactive console programs focusing on control flow and problem solving.  
+**Technology:** C  
 
 ---
 
-### 12. Python Programming – Coding Studio
+### 6. Python Programming Exercises – Coding Studio  
 **Code:** [Python-Project-Coding-Studio](https://github.com/ichsanx/Python-Project-Coding-Studio)  
-**Goal:** Learn Python fundamentals through coding exercises.  
-**Description:** Created multiple Python scripts exploring loops, functions, conditionals, and classes.  
-**Skills:** Python Basics, Functions, OOP.  
-**Technology:** Python
+**Goal:** Learn Python fundamentals through hands‑on exercises.  
+**Highlights:** Created scripts using functions, loops, conditionals, and basic OOP.  
+**Technology:** Python  
 
 ---
 
-### 13. MySQL Fundamentals – Coding Studio
+### 7. MySQL Fundamentals – Coding Studio  
 **Code:** [Project-MySQL-Fundamental-Coding-Studio](https://github.com/ichsanx/Project-MySQL-Fundamental-Coding-Studio)  
-**Goal:** Learn SQL database design and data manipulation.  
-**Description:** Practiced DDL, DML, joins, and data queries to manage structured databases.  
-**Skills:** SQL, Database Design, Data Querying.  
-**Technology:** MySQL
+**Goal:** Practice SQL database design and data manipulation.  
+**Highlights:** Used DDL & DML, joins, and queries to manage structured data.  
+**Technology:** MySQL  
 
 ---
 
-### 14. Excel Intermediate – Coding Studio
+### 8. Excel Intermediate Practice – Coding Studio  
 **Code:** [Project-Excel-Intermediate](https://github.com/ichsanx/Project-Excel-Intermediate)  
-**Goal:** Develop intermediate-level Excel analytical skills.  
-**Description:** Created data reports using formulas, pivot tables, and charts for data-driven decisions.  
-**Skills:** Data Analysis, Excel Formulas, Visualization.  
-**Technology:** Microsoft Excel
+**Goal:** Strengthen Excel skills for analytics and reporting.  
+**Highlights:** Built reports using formulas, pivot tables, and charts to summarize data.  
+**Technology:** Microsoft Excel  
 
 ---
 
 ## 🎓 Education
 
-**Bachelor Degree** – *S1 (Information Technology, STMIK MERCUSUAR)*  
-After graduating from vocational high school in 2010, I pursued my passion for technology by enrolling at STMIK Mercusuar, majoring in Information Technology (Teknik Informatika).
-During my studies, I built a strong foundation in computer science, software development, database management, and web programming.
-Throughout the program, I also developed several projects that combined both technical and analytical skills, which later strengthened my professional direction toward data analytics and software engineering.  
-📅 *Graduated: August 26, 2014*
+- **Bachelor of Information Technology** – STMIK Mercusuar  
+  *2010 – 2014*  
+  Focus on database, algorithms, programming, and web development.
 
-**WebHozz Training Center** – *Web Development Course (PHP & MySQL)*  
-Focused on PHP website creation, layout design, CRUD, and project implementation.  
-📅 *Graduated: November 26, 2016*
+---
 
-**Growia Academy** – *Data Analyst Certification Program*  
-Comprehensive training in analytics, visualization, and reporting using Python, SQL, Tableau, and Excel.  
-📅 *Graduated: 2025*
+## 📚 Certifications & Professional Training
 
-**RevoU** – *Fundamental Software Engineering Course*  
-Learned the fundamentals of front-end development and responsive design.  
-📅 *Completed: 2025*
+- **Growia Academy – Data Analyst Certification Program (2025)**  
+  End‑to‑end training in Python, SQL, Tableau, Excel, and business analytics.
 
-**Coding Studio** – *Programming and Data Fundamentals*  
-Studied Python, SQL, Excel, and C programming for data and software solutions.  
-📅 *Completed: 2025*
+- **Coding Studio – Programming and Data Fundamentals (2025)**  
+  Python, SQL, Excel, and C for data and software solutions.
+
+- **RevoU – Fundamental Software Engineering Course (2025)**  
+  Front‑end fundamentals and responsive web design.
+
+- **WebHozz Training Center – Web Development (PHP & MySQL) (2016)**  
+  PHP website creation, layout design, CRUD, and project implementation.
+
+- **Digistar Connect – Boost Your Project Management Skill (2024)**  
+  Introduction to project management and collaboration.
+
+> Additional webinars and foundational certificates (fundamental Python/SQL/Excel, database, etc.) are available upon request.
 
 ---
 
 ## 🧠 Technical Skills
 
-- **Programming:** Python, PHP, C, JavaScript  
-- **Data Analytics:** SQL, Tableau, Excel, Google Data Studio  
-- **Database:** MySQL, BigQuery  
-- **Web Development:** HTML, CSS, Bootstrap, PHP  
-- **Tools:** GitHub, VS Code, Jupyter Notebook
-- **Server Admin:** Proxmox Virtual Environment & TrueNass
+**Core Data Skills**
+
+- Python – data cleaning, EDA, basic visualization (pandas, NumPy, Matplotlib, Seaborn)  
+- SQL – joins, aggregation, grouping, CTEs, window functions  
+- Data Analysis – KPI tracking, trend analysis, cohort/segment analysis  
+- Data Visualization – Tableau, Google Data Studio, Excel dashboards  
+- Excel – formulas, pivot tables, lookup functions, reporting  
+
+**Tools**
+
+- Jupyter Notebook  
+- Google BigQuery, MySQL  
+- Git & GitHub  
+- Excel & Google Sheets  
+- VS Code  
+
+**Supporting Technical Skills**
+
+- Web Development – HTML, CSS, JavaScript, PHP, Bootstrap  
+- Programming – C  
+- Server & Virtualization – Proxmox VE, TrueNAS (basic administration)
 
 ---
 
-## 📜 Achievement
-- Certification:
-  - CERTIFIED DIGISTAR CONNECT GOES TO ITS X ACADS : BOOST YOUR PROJECT MANAGEMENT SKILL 
-  - CERTIFIED BEGINNER & INTERMEDIATE LEVEL ON DATA ANALYST COURSE
-  - CERTIFICATE WEBINAR PENGANTAR ANALISIS DATA
-  - CERTIFICATE FUNDAMENTAL COURSE INTRO TO SOFTWARE ENGINEERING
-  - CERTIFICATE FUNDAMENTAL ALGORITMA
-  - CERTIFICATE FUNDAMENTAL PYTHON
-  - CERTIFICATE EXCEL INTERMEDIATE
-  - CERTIFICATE FUNDAMENTAL EXCEL
-  - CERTIFICATE FUNDAMENTAL DATABASE MYSQL
-  - CERTIFICATE FUNDAMENTAL DIGITAL MARKETING
-  - CERTIFICATE WEB PROGRAMMING TRAINING
-  - CERTIFICATE OF ACHIEVEMENT AWARD HIGHER LEARNING
-  - CERTIFICATE PROGRAM VISUAL BASIC & MYSQL
-  - CERTIFICATE TEKNISI KOMPUTER
-  - CERTIFICATE ENTREPRENEUR TANDOMAS MANDIRI
-  - CERTIFICATE PRAKTERK KERJA LAPANGAN DEPKUMHAM
+## 🏅 Achievements
+
+- Completed a full **Data Analyst Certification Program** and delivered several end‑to‑end analytics projects using Python, SQL, and visualization tools.  
+- Supported business stakeholders with dashboards and reports for sales and KPI monitoring.  
+- Built data visualizations and reports that were used in internal presentations and assessments.  
+- Strengthened analytical and technical foundations through structured programs at **Growia**, **Coding Studio**, **RevoU**, and **WebHozz**.
 
 ---
 
